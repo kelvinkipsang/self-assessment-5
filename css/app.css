@@ -1,0 +1,61 @@
+.scroll{
+    height: 300px;
+    overflow: hidden;
+    margin-left: 50px;
+    padding-top: 40px;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-top: 50px;
+}
+p{
+    text-align: left;
+}
+ 
+.links{
+    font font-size: 20px;
+  margin-left: 30px;
+    
+    
+}
+ul{
+    height: 600px;
+     background: linear-gradient(#ebeced, #d1d5d6);
+}
+li{
+    height:60px;
+    width: 230px;
+     list-style: none;
+     background: linear-gradient(#ebeced, #d1d5d6);
+    text-align: center;
+    padding-top: 15px;
+    border-bottom: 1px solid white;
+   
+}
+
+i{
+    padding-top: 15px;
+    
+}
+
+
+a{
+    -webkit-transition: color 1s ease-in; 
+    background: linear-gradient(#ebeced, #d1d5d6);
+}
+a:active {
+    color: white;
+}
+.scroll{
+    
+}
+body{
+    background-color: white;
+}
+section{
+    background-color: white;
+}
+.links{
+   
+    height: 700px;
+    
+}
